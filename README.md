@@ -59,6 +59,8 @@ add it. Or PR to it I guess. It's cool either way.
   package information in the Python package index.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - a file-recovery tool
   for GNU/Linux.
+- [Secret Santa](https://github.com/rodrigogiraoserrao/Secret-Santa) -
+  Secret Santa drawing tool for the terminal.
 - [shira](https://github.com/darrenburns/shira) - a Python object inspector.
 - [textual-passphrase](https://github.com/JoshPaulie/textual-passphrase) -
   application that generates passphrases based on a custom user-provided
