@@ -61,5 +61,6 @@ add it. Or PR to it I guess. It's cool either way.
   list.
 - [unbored](https://github.com/davep/unbored) - a terminal-based client for
   the bored API; get inspired for things to do when you're bored.
+- [jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the terminal.
 
 [//]: # (README.md ends here)
