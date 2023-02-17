@@ -47,6 +47,8 @@ add it. Or PR to it I guess. It's cool either way.
   the terminal.
 - [gridinfo](https://github.com/davep/gridinfo) - a simple application for
   looking at stats about the Second Life grid.
+- [jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the
+  terminal.
 - [kupo](https://github.com/darrenburns/kupo) - a terminal-based file
   browser.
 - [OIDIA](https://github.com/davep/oidia) - a simple no-shaming
@@ -61,6 +63,5 @@ add it. Or PR to it I guess. It's cool either way.
   list.
 - [unbored](https://github.com/davep/unbored) - a terminal-based client for
   the bored API; get inspired for things to do when you're bored.
-- [jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the terminal.
 
 [//]: # (README.md ends here)
