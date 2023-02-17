@@ -41,12 +41,14 @@ add it. Or PR to it I guess. It's cool either way.
 
 ## Applications built with Textual
 
+- [Dooit](https://github.com/kraanzu/dooit) - a todo manager which you didn't ask for but needed
 - [DooPass](https://github.com/doopath/PasswordManager) - a minimalistic TUI
   password manager.
 - [fivepyfive](https://github.com/davep/fivepyfive) - an annoying puzzle for
   the terminal.
 - [gridinfo](https://github.com/davep/gridinfo) - a simple application for
   looking at stats about the Second Life grid.
+- [gupshup](https://github.com/kraanzu/gupshup) - A chat application built for the terminal
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - a
   cross-platform, command-line and human-friendly Bluetooth Low Energy scanner
 - [jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the
@@ -62,6 +64,7 @@ add it. Or PR to it I guess. It's cool either way.
 - [Secret Santa](https://github.com/rodrigogiraoserrao/Secret-Santa) -
   Secret Santa drawing tool for the terminal.
 - [shira](https://github.com/darrenburns/shira) - a Python object inspector.
+- [termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
 - [textual-passphrase](https://github.com/JoshPaulie/textual-passphrase) -
   application that generates passphrases based on a custom user-provided
   list.
