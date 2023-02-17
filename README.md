@@ -30,6 +30,9 @@ add it. Or PR to it I guess. It's cool either way.
   Add autocompletion to your Textual applications.
 - [textual-qrcode](https://github.com/davep/textual-qrcode) - library that
   provides a simple QR code widget, using https://qrenco.de/ as the backend.
+- [textual-terminal](https://github.com/mitosch/textual-terminal) - library
+  that provides a terminal widget; which can be used to embed other terminal
+  applications inside a Textual application.
 
 ## Applications built with Textual
 
