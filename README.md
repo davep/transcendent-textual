@@ -49,6 +49,9 @@ add it. Or PR to it I guess. It's cool either way.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - a file-recovery tool
   for GNU/Linux.
 - [shira](https://github.com/darrenburns/shira) - a Python object inspector.
+- [textual-passphrase](https://github.com/JoshPaulie/textual-passphrase) -
+  application that generates passphrases based on a custom user-provided
+  list.
 - [unbored](https://github.com/davep/unbored) - a terminal-based client for
   the bored API; get inspired for things to do when you're bored.
 
