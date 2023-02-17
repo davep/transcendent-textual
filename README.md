@@ -49,6 +49,8 @@ add it. Or PR to it I guess. It's cool either way.
   looking at stats about the Second Life grid.
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - a
   cross-platform, command-line and human-friendly Bluetooth Low Energy scanner
+- [jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the
+  terminal.
 - [kupo](https://github.com/darrenburns/kupo) - a terminal-based file
   browser.
 - [OIDIA](https://github.com/davep/oidia) - a simple no-shaming
