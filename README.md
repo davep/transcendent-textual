@@ -38,9 +38,9 @@ add it. Or PR to it I guess. It's cool either way.
 - [textual-terminal](https://github.com/mitosch/textual-terminal) - library
   that provides a terminal widget; which can be used to embed other terminal
   applications inside a Textual application.
-- [tuilwindcss](https://github.com/koaning/tuilwindcss) - This project is
-  inspired by tailwind.css to offers a similar set of classes that can be
-  used directly to construct TUI apps with Textual.
+- [tuilwindcss](https://github.com/koaning/tuilwindcss) - a project inspired
+  by tailwind.css to offer a similar set of classes that can be used
+  directly to construct TUI apps with Textual.
 
 ## Applications built with Textual
 
