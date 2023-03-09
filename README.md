@@ -60,6 +60,7 @@ add it. Or PR to it I guess. It's cool either way.
   terminal.
 - [kupo](https://github.com/darrenburns/kupo) - a terminal-based file
   browser.
+- [NoteSH](https://github.com/Cvaniak/NoteSH) - a fully functional sticky notes App in your Terminal
 - [OIDIA](https://github.com/davep/oidia) - a simple no-shaming
   terminal-based streak tracker.
 - [PISpy](https://github.com/davep/pispy) - a simple client for looking up
