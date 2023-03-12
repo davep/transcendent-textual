@@ -55,7 +55,8 @@ add it. Or PR to it I guess. It's cool either way.
 - [gupshup](https://github.com/kraanzu/gupshup) - a chat application built
   for the terminal.
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - a
-  cross-platform, command-line and human-friendly Bluetooth Low Energy scanner
+  cross-platform, command-line and human-friendly Bluetooth Low Energy
+  scanner.
 - [jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the
   terminal.
 - [kupo](https://github.com/darrenburns/kupo) - a terminal-based file
@@ -77,7 +78,7 @@ add it. Or PR to it I guess. It's cool either way.
 - [textual-passphrase](https://github.com/JoshPaulie/textual-passphrase) -
   application that generates passphrases based on a custom user-provided
   list.
-- [textual-prometheus](https://github.com/UmBsublime/textual-prometheus) - 
+- [textual-prometheus](https://github.com/UmBsublime/textual-prometheus) -
   simple tool to query prometheus/thanos API and plot it in the terminal.
 - [unbored](https://github.com/davep/unbored) - a terminal-based client for
   the bored API; get inspired for things to do when you're bored.
