@@ -54,6 +54,8 @@ add it. Or PR to it I guess. It's cool either way.
   looking at stats about the Second Life grid.
 - [gupshup](https://github.com/kraanzu/gupshup) - a chat application built
   for the terminal.
+- [http-tui](https://github.com/treyhunner/http-tui) - a client for testing
+  out HTTP requests.
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - a
   cross-platform, command-line and human-friendly Bluetooth Low Energy
   scanner.
