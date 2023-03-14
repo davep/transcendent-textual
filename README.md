@@ -77,6 +77,8 @@ add it. Or PR to it I guess. It's cool either way.
   tool where you build your slides using Python functions.
 - [termtyper](https://github.com/kraanzu/termtyper) - a typing application
   to level up your fingers!
+- [textual-bee](https://github.com/torshepherd/textual-bee) - a word puzzle
+  for the terminal, written with Textual.
 - [textual-passphrase](https://github.com/JoshPaulie/textual-passphrase) -
   application that generates passphrases based on a custom user-provided
   list.
