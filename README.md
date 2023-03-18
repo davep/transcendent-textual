@@ -84,6 +84,7 @@ add it. Or PR to it I guess. It's cool either way.
   list.
 - [textual-prometheus](https://github.com/UmBsublime/textual-prometheus) -
   simple tool to query prometheus/thanos API and plot it in the terminal.
+- [tiptop](https://github.com/nschloe/tiptop) - tiptop is a command-line system monitoring tool in the spirit of top.
 - [twobee](https://github.com/davep/twobee) - a simple 2bit file viewer and
   reader library.
 - [unbored](https://github.com/davep/unbored) - a terminal-based client for
