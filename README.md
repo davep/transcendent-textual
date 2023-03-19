@@ -48,6 +48,8 @@ add it. Or PR to it I guess. It's cool either way.
   didn't ask for but needed.
 - [DooPass](https://github.com/doopath/PasswordManager) - a minimalistic TUI
   password manager.
+- [Feeling](https://github.com/davep/feeling) - A simple terminal-based
+  feelings tracker, with CLI and CHUI interface.
 - [fivepyfive](https://github.com/davep/fivepyfive) - an annoying puzzle for
   the terminal.
 - [gridinfo](https://github.com/davep/gridinfo) - a simple application for
