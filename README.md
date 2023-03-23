@@ -61,6 +61,7 @@ add it. Or PR to it I guess. It's cool either way.
   scanner.
 - [jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the
   terminal.
+- [Kayak](https://github.com/sauljabin/kayak) - ksqlDB text user interface.
 - [kupo](https://github.com/darrenburns/kupo) - a terminal-based file
   browser.
 - [NoteSH](https://github.com/Cvaniak/NoteSH) - a fully functional sticky notes App in your Terminal
