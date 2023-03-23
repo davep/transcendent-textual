@@ -78,6 +78,8 @@ add it. Or PR to it I guess. It's cool either way.
   tool where you build your slides using Python functions.
 - [sqint](https://github.com/cdelker/sqint) - a texutal-based terminal
   application for viewing, querying, and modifying SQLite databases.
+- [termlauncer](https://github.com/falldeaf/termlauncher) - a command-line
+  based key launcher using Textual.
 - [termtyper](https://github.com/kraanzu/termtyper) - a typing application
   to level up your fingers!
 - [textual-bee](https://github.com/torshepherd/textual-bee) - a word puzzle
