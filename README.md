@@ -53,6 +53,9 @@ add it. Or PR to it I guess. It's cool either way.
   feelings tracker, with CLI and CHUI interface.
 - [fivepyfive](https://github.com/davep/fivepyfive) - an annoying puzzle for
   the terminal.
+- [girok](https://github.com/noisrucer/girok) - a powerful terminal-based
+  task manager which provides a multitude of scheduling operations that can
+  be done in less than 10 seconds.
 - [gridinfo](https://github.com/davep/gridinfo) - a simple application for
   looking at stats about the Second Life grid.
 - [gupshup](https://github.com/kraanzu/gupshup) - a chat application built
