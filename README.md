@@ -28,6 +28,8 @@ add it. Or PR to it I guess. It's cool either way.
   library and application for exploring the Python abstract syntax tree.
 - [textual-autocomplete](https://github.com/darrenburns/textual-autocomplete) -
   Add autocompletion to your Textual applications.
+- [textual-canvas](https://github.com/davep/textual-canvas) - A simple
+  character-based canvas widget for use with Textual.
 - [textual-filedrop](https://github.com/agmmnn/textual-filedrop) - library
   that provides a `FileDrop` widget, allowing easy drag/drop into a terminal
   application.
