@@ -72,6 +72,8 @@ add it. Or PR to it I guess. It's cool either way.
 - [Kayak](https://github.com/sauljabin/kayak) - ksqlDB text user interface.
 - [kupo](https://github.com/darrenburns/kupo) - a terminal-based file
   browser.
+- [mandelexp](https://github.com/davep/textual-mandelbrot) - A Textual
+  Mandelbrot explorer for the terminal.
 - [NoteSH](https://github.com/Cvaniak/NoteSH) - a fully functional sticky notes App in your Terminal
 - [OIDIA](https://github.com/davep/oidia) - a simple no-shaming
   terminal-based streak tracker.
