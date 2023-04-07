@@ -49,6 +49,8 @@ add it. Or PR to it I guess. It's cool either way.
 - [baca](https://github.com/wustho/baca) - a TUI Ebook Reader.
 - [Dooit](https://github.com/kraanzu/dooit) - a todo manager which you
   didn't ask for but needed.
+- [dcmetro](https://github.com/HarunFeraidon/dcmetro) - Command line app for
+  sending commands to get live information on the DC Metro.
 - [DooPass](https://github.com/doopath/PasswordManager) - a minimalistic TUI
   password manager.
 - [Feeling](https://github.com/davep/feeling) - A simple terminal-based
