@@ -96,6 +96,8 @@ add it. Or PR to it I guess. It's cool either way.
   to level up your fingers!
 - [textual-bee](https://github.com/torshepherd/textual-bee) - a word puzzle
   for the terminal, written with Textual.
+- [textual-musicplayer](https://github.com/bluematt/textual-musicplayer) - a
+  simple music player (MP3, etc.) using Textual.
 - [textual-passphrase](https://github.com/JoshPaulie/textual-passphrase) -
   application that generates passphrases based on a custom user-provided
   list.
