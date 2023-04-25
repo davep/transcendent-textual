@@ -24,6 +24,7 @@ add it. Or PR to it I guess. It's cool either way.
 
 - [Rich Pixels](https://github.com/darrenburns/rich-pixels) - display images
   in the terminal in your Textual applications.
+- [rich_format](https://github.com/pom11/rich_format) - replicate python string formatting for rich Text
 - [textual-astview](https://github.com/davep/textual-astview) - widget
   library and application for exploring the Python abstract syntax tree.
 - [textual-autocomplete](https://github.com/darrenburns/textual-autocomplete) -
