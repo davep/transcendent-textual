@@ -55,6 +55,8 @@ add it. Or PR to it I guess. It's cool either way.
   password manager.
 - [Feeling](https://github.com/davep/feeling) - A simple terminal-based
   feelings tracker, with CLI and CHUI interface.
+- [Frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser
+  for your terminal.
 - [fivepyfive](https://github.com/davep/fivepyfive) - an annoying puzzle for
   the terminal.
 - [girok](https://github.com/noisrucer/girok) - a powerful terminal-based
