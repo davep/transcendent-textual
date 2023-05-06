@@ -35,6 +35,8 @@ add it. Or PR to it I guess. It's cool either way.
   application.
 - [textual-imageview](https://github.com/adamviola/textual-imageview) -
   terminal-based image-viewing widget library and application.
+- [textual-pandas](https://github.com/dannywade/textual-pandas) - A module
+  to display Pandas dataframes in Textual.
 - [textual-qrcode](https://github.com/davep/textual-qrcode) - library that
   provides a simple QR code widget, using https://qrenco.de/ as the backend.
 - [textual-terminal](https://github.com/mitosch/textual-terminal) - library
