@@ -91,6 +91,8 @@ add it. Or PR to it I guess. It's cool either way.
 - [Secret Santa](https://github.com/rodrigogiraoserrao/Secret-Santa) -
   Secret Santa drawing tool for the terminal.
 - [shira](https://github.com/darrenburns/shira) - a Python object inspector.
+- [skylab](https://github.com/SerhiiStets/skylab) - A TUI for showing latest
+  upcoming rocket launches.
 - [sphoin](https://github.com/Parsecom/sphoin) - a TUI for [sphoin.app](https://sphoin.app)
 - [Spiel](https://github.com/JoshKarpel/spiel) - a terminal-based presentation
   tool where you build your slides using Python functions.
