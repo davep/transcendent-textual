@@ -48,6 +48,8 @@ add it. Or PR to it I guess. It's cool either way.
 
 ## Applications built with Textual
 
+- [avocet](https://github.com/JoshuaOliphant/avocet) - A bookmark manager
+  that interacts with the raindrop.io API.
 - [baca](https://github.com/wustho/baca) - a TUI Ebook Reader.
 - [Dooit](https://github.com/kraanzu/dooit) - a todo manager which you
   didn't ask for but needed.
