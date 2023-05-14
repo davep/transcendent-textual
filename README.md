@@ -92,6 +92,8 @@ add it. Or PR to it I guess. It's cool either way.
   package information in the Python package index.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - a file-recovery tool
   for GNU/Linux.
+- [RichColorPicker](https://github.com/PlusPlusMan/RichColorPicker) -
+  Terminal-based color picker with rich color palette.
 - [Secret Santa](https://github.com/rodrigogiraoserrao/Secret-Santa) -
   Secret Santa drawing tool for the terminal.
 - [shira](https://github.com/darrenburns/shira) - a Python object inspector.
