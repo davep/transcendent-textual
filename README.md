@@ -74,6 +74,8 @@ add it. Or PR to it I guess. It's cool either way.
   for the terminal.
 - [Harlequin](https://github.com/tconbeer/harlequin) - A Terminal-based SQL
   IDE for DuckDB.
+- [hexabyte](https://github.com/thetacom/hexabyte) - A modern, modular, and
+  robust TUI hex editor.
 - [http-tui](https://github.com/treyhunner/http-tui) - a client for testing
   out HTTP requests.
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - a
