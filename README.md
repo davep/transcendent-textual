@@ -13,36 +13,36 @@ add it. Or PR to it I guess. It's cool either way.
 
 ## Useful resources
 
-- [The Textual Documentation](https://textual.textualize.io/) - a great
+- [The Textual Documentation](https://textual.textualize.io/) - A great
   place to get started, with a great tutorial to get you going.
-- [The Textualize Discord Server](https://discord.gg/Enf6Z3qhVr) - if you're
+- [The Textualize Discord Server](https://discord.gg/Enf6Z3qhVr) - If you're
   looking for some real-time help, this is a good place to drop by.
-- [The Textual repository](https://github.com/Textualize/textual) - for the
+- [The Textual repository](https://github.com/Textualize/textual) - For the
   very latest and greatest Textual source.
 
 ## Third-party libraries
 
-- [Rich Pixels](https://github.com/darrenburns/rich-pixels) - display images
+- [Rich Pixels](https://github.com/darrenburns/rich-pixels) - Display images
   in the terminal in your Textual applications.
-- [textual-astview](https://github.com/davep/textual-astview) - widget
+- [textual-astview](https://github.com/davep/textual-astview) - Widget
   library and application for exploring the Python abstract syntax tree.
 - [textual-autocomplete](https://github.com/darrenburns/textual-autocomplete) -
   Add autocompletion to your Textual applications.
 - [textual-canvas](https://github.com/davep/textual-canvas) - A simple
   character-based canvas widget for use with Textual.
-- [textual-filedrop](https://github.com/agmmnn/textual-filedrop) - library
+- [textual-filedrop](https://github.com/agmmnn/textual-filedrop) - Library
   that provides a `FileDrop` widget, allowing easy drag/drop into a terminal
   application.
 - [textual-imageview](https://github.com/adamviola/textual-imageview) -
-  terminal-based image-viewing widget library and application.
+  Terminal-based image-viewing widget library and application.
 - [textual-pandas](https://github.com/dannywade/textual-pandas) - A module
   to display Pandas dataframes in Textual.
-- [textual-qrcode](https://github.com/davep/textual-qrcode) - library that
+- [textual-qrcode](https://github.com/davep/textual-qrcode) - Library that
   provides a simple QR code widget, using https://qrenco.de/ as the backend.
-- [textual-terminal](https://github.com/mitosch/textual-terminal) - library
+- [textual-terminal](https://github.com/mitosch/textual-terminal) - Library
   that provides a terminal widget; which can be used to embed other terminal
   applications inside a Textual application.
-- [tuilwindcss](https://github.com/koaning/tuilwindcss) - a project inspired
+- [tuilwindcss](https://github.com/koaning/tuilwindcss) - A project inspired
   by tailwind.css to offer a similar set of classes that can be used
   directly to construct TUI apps with Textual.
 
@@ -50,33 +50,33 @@ add it. Or PR to it I guess. It's cool either way.
 
 - [avocet](https://github.com/JoshuaOliphant/avocet) - A bookmark manager
   that interacts with the raindrop.io API.
-- [baca](https://github.com/wustho/baca) - a TUI Ebook Reader.
-- [browsr](https://github.com/juftin/browsr) - a pleasant file explorer in
+- [baca](https://github.com/wustho/baca) - A TUI Ebook Reader.
+- [browsr](https://github.com/juftin/browsr) - A pleasant file explorer in
   your terminal.
-- [Dooit](https://github.com/kraanzu/dooit) - a todo manager which you
+- [Dooit](https://github.com/kraanzu/dooit) - A todo manager which you
   didn't ask for but needed.
 - [dcmetro](https://github.com/HarunFeraidon/dcmetro) - Command line app for
   sending commands to get live information on the DC Metro.
-- [DooPass](https://github.com/doopath/PasswordManager) - a minimalistic TUI
+- [DooPass](https://github.com/doopath/PasswordManager) - A minimalistic TUI
   password manager.
 - [Feeling](https://github.com/davep/feeling) - A simple terminal-based
   feelings tracker, with CLI and CHUI interface.
 - [Frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser
   for your terminal.
-- [fivepyfive](https://github.com/davep/fivepyfive) - an annoying puzzle for
+- [fivepyfive](https://github.com/davep/fivepyfive) - An annoying puzzle for
   the terminal.
-- [girok](https://github.com/noisrucer/girok) - a powerful terminal-based
+- [girok](https://github.com/noisrucer/girok) - A powerful terminal-based
   task manager which provides a multitude of scheduling operations that can
   be done in less than 10 seconds.
-- [gridinfo](https://github.com/davep/gridinfo) - a simple application for
+- [gridinfo](https://github.com/davep/gridinfo) - A simple application for
   looking at stats about the Second Life grid.
-- [gupshup](https://github.com/kraanzu/gupshup) - a chat application built
+- [gupshup](https://github.com/kraanzu/gupshup) - A chat application built
   for the terminal.
 - [Harlequin](https://github.com/tconbeer/harlequin) - A Terminal-based SQL
   IDE for DuckDB.
 - [hexabyte](https://github.com/thetacom/hexabyte) - A modern, modular, and
   robust TUI hex editor.
-- [http-tui](https://github.com/treyhunner/http-tui) - a client for testing
+- [http-tui](https://github.com/treyhunner/http-tui) - A client for testing
   out HTTP requests.
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - a
   cross-platform, command-line and human-friendly Bluetooth Low Energy
@@ -84,46 +84,46 @@ add it. Or PR to it I guess. It's cool either way.
 - [jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the
   terminal.
 - [Kayak](https://github.com/sauljabin/kayak) - ksqlDB text user interface.
-- [kupo](https://github.com/darrenburns/kupo) - a terminal-based file
+- [kupo](https://github.com/darrenburns/kupo) - A terminal-based file
   browser.
 - [langchain-serve](https://github.com/jina-ai/langchain-serve) - babyagi-as-a-service playground.
 - [mandelexp](https://github.com/davep/textual-mandelbrot) - A Textual
   Mandelbrot explorer for the terminal.
-- [NoteSH](https://github.com/Cvaniak/NoteSH) - a fully functional sticky notes App in your Terminal
-- [OIDIA](https://github.com/davep/oidia) - a simple no-shaming
+- [NoteSH](https://github.com/Cvaniak/NoteSH) - A fully functional sticky notes App in your Terminal
+- [OIDIA](https://github.com/davep/oidia) - A simple no-shaming
   terminal-based streak tracker.
-- [PISpy](https://github.com/davep/pispy) - a simple client for looking up
+- [PISpy](https://github.com/davep/pispy) - A simple client for looking up
   package information in the Python package index.
-- [RecoverPy](https://github.com/PabloLec/RecoverPy) - a file-recovery tool
+- [RecoverPy](https://github.com/PabloLec/RecoverPy) - A file-recovery tool
   for GNU/Linux.
 - [RichColorPicker](https://github.com/PlusPlusMan/RichColorPicker) -
   Terminal-based color picker with rich color palette.
 - [Secret Santa](https://github.com/rodrigogiraoserrao/Secret-Santa) -
   Secret Santa drawing tool for the terminal.
-- [shira](https://github.com/darrenburns/shira) - a Python object inspector.
+- [shira](https://github.com/darrenburns/shira) - A Python object inspector.
 - [skylab](https://github.com/SerhiiStets/skylab) - A TUI for showing latest
   upcoming rocket launches.
-- [sphoin](https://github.com/Parsecom/sphoin) - a TUI for [sphoin.app](https://sphoin.app)
-- [Spiel](https://github.com/JoshKarpel/spiel) - a terminal-based presentation
+- [sphoin](https://github.com/Parsecom/sphoin) - A TUI for [sphoin.app](https://sphoin.app)
+- [Spiel](https://github.com/JoshKarpel/spiel) - A terminal-based presentation
   tool where you build your slides using Python functions.
-- [sqint](https://github.com/cdelker/sqint) - a texutal-based terminal
+- [sqint](https://github.com/cdelker/sqint) - A texutal-based terminal
   application for viewing, querying, and modifying SQLite databases.
-- [termlauncer](https://github.com/falldeaf/termlauncher) - a command-line
+- [termlauncer](https://github.com/falldeaf/termlauncher) - A command-line
   based key launcher using Textual.
-- [termtyper](https://github.com/kraanzu/termtyper) - a typing application
+- [termtyper](https://github.com/kraanzu/termtyper) - A typing application
   to level up your fingers!
-- [textual-bee](https://github.com/torshepherd/textual-bee) - a word puzzle
+- [textual-bee](https://github.com/torshepherd/textual-bee) - A word puzzle
   for the terminal, written with Textual.
-- [textual-musicplayer](https://github.com/bluematt/textual-musicplayer) - a
+- [textual-musicplayer](https://github.com/bluematt/textual-musicplayer) - A
   simple music player (MP3, etc.) using Textual.
 - [textual-passphrase](https://github.com/JoshPaulie/textual-passphrase) -
-  application that generates passphrases based on a custom user-provided
+  Application that generates passphrases based on a custom user-provided
   list.
 - [textual-prometheus](https://github.com/UmBsublime/textual-prometheus) -
   simple tool to query prometheus/thanos API and plot it in the terminal.
-- [twobee](https://github.com/davep/twobee) - a simple 2bit file viewer and
+- [twobee](https://github.com/davep/twobee) - A simple 2bit file viewer and
   reader library.
-- [unbored](https://github.com/davep/unbored) - a terminal-based client for
+- [unbored](https://github.com/davep/unbored) - A terminal-based client for
   the bored API; get inspired for things to do when you're bored.
 
 [//]: # (README.md ends here)
