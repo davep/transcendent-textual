@@ -33,6 +33,8 @@ add it. Or PR to it I guess. It's cool either way.
 - [textual-filedrop](https://github.com/agmmnn/textual-filedrop) - Library
   that provides a `FileDrop` widget, allowing easy drag/drop into a terminal
   application.
+- [textual-fspicker](https://github.com/davep/textual-fspicker) - A Textual
+  widget library for picking things in the filesystem.
 - [textual-imageview](https://github.com/adamviola/textual-imageview) -
   Terminal-based image-viewing widget library and application.
 - [textual-pandas](https://github.com/dannywade/textual-pandas) - A module
