@@ -55,6 +55,8 @@ add it. Or PR to it I guess. It's cool either way.
 - [baca](https://github.com/wustho/baca) - A TUI Ebook Reader.
 - [browsr](https://github.com/juftin/browsr) - A pleasant file explorer in
   your terminal.
+- [coBib](https://gitlab.com/cobib/cobib) - A simple, command-line based
+  bibliography management tool.
 - [Dooit](https://github.com/kraanzu/dooit) - A todo manager which you
   didn't ask for but needed.
 - [dcmetro](https://github.com/HarunFeraidon/dcmetro) - Command line app for
