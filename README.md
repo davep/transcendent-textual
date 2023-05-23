@@ -125,6 +125,8 @@ add it. Or PR to it I guess. It's cool either way.
   list.
 - [textual-prometheus](https://github.com/UmBsublime/textual-prometheus) -
   simple tool to query prometheus/thanos API and plot it in the terminal.
+- [trogon](https://github.com/Textualize/trogon) - Easily turn your Click
+  CLI into a powerful terminal application.
 - [twobee](https://github.com/davep/twobee) - A simple 2bit file viewer and
   reader library.
 - [txt2dub](https://github.com/NotYourDadsMath/txt2dub) - A text-based UI
