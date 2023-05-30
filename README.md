@@ -63,6 +63,8 @@ add it. Or PR to it I guess. It's cool either way.
   sending commands to get live information on the DC Metro.
 - [DooPass](https://github.com/doopath/PasswordManager) - A minimalistic TUI
   password manager.
+- [Elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client
+  built with Textual.
 - [Feeling](https://github.com/davep/feeling) - A simple terminal-based
   feelings tracker, with CLI and CHUI interface.
 - [Frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser
