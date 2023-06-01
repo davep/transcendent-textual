@@ -44,6 +44,8 @@ add it. Or PR to it I guess. It's cool either way.
 - [textual-terminal](https://github.com/mitosch/textual-terminal) - Library
   that provides a terminal widget; which can be used to embed other terminal
   applications inside a Textual application.
+- [textual-universal-directorytree](https://github.com/juftin/textual-universal-directorytree) -
+  Textual plugin for a `DirectoryTree` compatible with remote filesystems.
 - [tuilwindcss](https://github.com/koaning/tuilwindcss) - A project inspired
   by tailwind.css to offer a similar set of classes that can be used
   directly to construct TUI apps with Textual.
