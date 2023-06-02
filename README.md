@@ -59,6 +59,8 @@ add it. Or PR to it I guess. It's cool either way.
   your terminal.
 - [coBib](https://gitlab.com/cobib/cobib) - A simple, command-line based
   bibliography management tool.
+- [Datadog QA](https://datadoghq.dev/ddqa/) - Datadog's QA manager for
+  releases of GitHub repositories.
 - [Dooit](https://github.com/kraanzu/dooit) - A todo manager which you
   didn't ask for but needed.
 - [dcmetro](https://github.com/HarunFeraidon/dcmetro) - Command line app for
