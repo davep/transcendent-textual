@@ -41,6 +41,8 @@ add it. Or PR to it I guess. It's cool either way.
   to display Pandas dataframes in Textual.
 - [textual-qrcode](https://github.com/davep/textual-qrcode) - Library that
   provides a simple QR code widget, using https://qrenco.de/ as the backend.
+- [textual-slider](https://github.com/TomJGooding/textual-slider) - A
+  Textual widget for a simple slider.
 - [textual-terminal](https://github.com/mitosch/textual-terminal) - Library
   that provides a terminal widget; which can be used to embed other terminal
   applications inside a Textual application.
