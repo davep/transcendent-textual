@@ -128,6 +128,8 @@ add it. Or PR to it I guess. It's cool either way.
   for the terminal, written with Textual.
 - [textual-musicplayer](https://github.com/bluematt/textual-musicplayer) - A
   simple music player (MP3, etc.) using Textual.
+- [textual-paint](https://github.com/1j01/textual-paint) - MS Paint... in
+  your terminal.
 - [textual-passphrase](https://github.com/JoshPaulie/textual-passphrase) -
   Application that generates passphrases based on a custom user-provided
   list.
