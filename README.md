@@ -82,6 +82,9 @@ add it. Or PR to it I guess. It's cool either way.
   be done in less than 10 seconds.
 - [gridinfo](https://github.com/davep/gridinfo) - A simple application for
   looking at stats about the Second Life grid.
+- [gtraceroute](https://github.com/LeviBorodenko/gtraceroute) - A
+  sophisticated network diagnostic tool, combining the utility of
+  traditional traceroute with a user-friendly UI similar to PingPlotter.
 - [gupshup](https://github.com/kraanzu/gupshup) - A chat application built
   for the terminal.
 - [Harlequin](https://github.com/tconbeer/harlequin) - A Terminal-based SQL
