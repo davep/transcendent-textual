@@ -147,5 +147,7 @@ add it. Or PR to it I guess. It's cool either way.
   performances.
 - [unbored](https://github.com/davep/unbored) - A terminal-based client for
   the bored API; get inspired for things to do when you're bored.
+- [usolitaire](https://github.com/eliasdorneles/usolitaire) - Solitaire in
+  your terminal.
 
 [//]: # (README.md ends here)
