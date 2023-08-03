@@ -77,6 +77,8 @@ add it. Or PR to it I guess. It's cool either way.
   for your terminal.
 - [fivepyfive](https://github.com/davep/fivepyfive) - An annoying puzzle for
   the terminal.
+- [FV-1 Programmer](https://github.com/audiofab/fv1_programmer) -
+  Textual-based UI for programming the Audiofab Easy Spin effects pedal.
 - [girok](https://github.com/noisrucer/girok) - A powerful terminal-based
   task manager which provides a multitude of scheduling operations that can
   be done in less than 10 seconds.
