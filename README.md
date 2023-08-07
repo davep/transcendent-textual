@@ -145,6 +145,8 @@ add it. Or PR to it I guess. It's cool either way.
 - [txt2dub](https://github.com/NotYourDadsMath/txt2dub) - A text-based UI
   application for editing voiceover scripts and generating text to speech
   performances.
+- [UPiano](https://github.com/eliasdorneles/upiano) - A Piano in your
+  terminal.
 - [unbored](https://github.com/davep/unbored) - A terminal-based client for
   the bored API; get inspired for things to do when you're bored.
 
