@@ -67,6 +67,8 @@ add it. Or PR to it I guess. It's cool either way.
   didn't ask for but needed.
 - [dcmetro](https://github.com/HarunFeraidon/dcmetro) - Command line app for
   sending commands to get live information on the DC Metro.
+- [Dolphie](https://github.com/charles-001/dolphie) - An intuitive
+  feature-rich top tool for monitoring MySQL in real time.
 - [DooPass](https://github.com/doopath/PasswordManager) - A minimalistic TUI
   password manager.
 - [Elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client
