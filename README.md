@@ -142,6 +142,8 @@ add it. Or PR to it I guess. It's cool either way.
   list.
 - [textual-prometheus](https://github.com/UmBsublime/textual-prometheus) -
   simple tool to query prometheus/thanos API and plot it in the terminal.
+- [textual-query-sandbox](https://github.com/davep/textual-query-sandbox) -
+  A simple tool for testing and practicing Textual DOM queries.
 - [trogon](https://github.com/Textualize/trogon) - Easily turn your Click
   CLI into a powerful terminal application.
 - [twobee](https://github.com/davep/twobee) - A simple 2bit file viewer and
