@@ -75,6 +75,8 @@ add it. Or PR to it I guess. It's cool either way.
   built with Textual.
 - [Feeling](https://github.com/davep/feeling) - A simple terminal-based
   feelings tracker, with CLI and CHUI interface.
+- [Flameshow](https://github.com/laixintao/flameshow) - A terminal
+  Flamegraph viewer.
 - [Frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser
   for your terminal.
 - [fivepyfive](https://github.com/davep/fivepyfive) - An annoying puzzle for
