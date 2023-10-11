@@ -22,6 +22,8 @@ add it. Or PR to it I guess. It's cool either way.
 
 ## Textualize libraries
 
+- [pytest-textual-snapshot](https://github.com/Textualize/pytest-textual-snapshot) -
+  Snapshot testing for Textual applications.
 - [textual-plotext](https://github.com/Textualize/textual-plotext) - A
   Textual widget wrapper library for Plotext; the terminal-based plotting
   and graphing library.
