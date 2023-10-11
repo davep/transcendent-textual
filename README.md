@@ -29,7 +29,7 @@ add it. Or PR to it I guess. It's cool either way.
 - [textual-plotext](https://github.com/Textualize/textual-plotext) - A
   Textual widget wrapper library for Plotext; the terminal-based plotting
   and graphing library.
-- [Textual Syntax Hilighter for
+- [Textual Syntax Highlighter for
   VSCode](https://marketplace.visualstudio.com/items?itemName=Textualize.textual-syntax-highlighter) -
   Enables syntax highlighting for Textual's CSS in VSCode.
 
