@@ -20,15 +20,18 @@ add it. Or PR to it I guess. It's cool either way.
 - [The Textual repository](https://github.com/Textualize/textual) - For the
   very latest and greatest Textual source.
 
-## Textualize libraries
+## Textualize libraries and tools
 
-- [textual-dev](https://github.com/Textualize/textual-dev) - Development
-  tools for Textual.
 - [pytest-textual-snapshot](https://github.com/Textualize/pytest-textual-snapshot) -
   Snapshot testing for Textual applications.
+- [textual-dev](https://github.com/Textualize/textual-dev) - Development
+  tools for Textual.
 - [textual-plotext](https://github.com/Textualize/textual-plotext) - A
   Textual widget wrapper library for Plotext; the terminal-based plotting
   and graphing library.
+- [Textual Syntax Hilighter for
+  VSCode](https://marketplace.visualstudio.com/items?itemName=Textualize.textual-syntax-highlighter) -
+  Enables syntax highlighting for Textual's CSS in VSCode.
 
 ## Third-party libraries
 
