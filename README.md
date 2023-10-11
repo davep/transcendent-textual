@@ -22,6 +22,8 @@ add it. Or PR to it I guess. It's cool either way.
 
 ## Textualize libraries
 
+- [textual-dev](https://github.com/Textualize/textual-dev) - Development
+  tools for Textual.
 - [pytest-textual-snapshot](https://github.com/Textualize/pytest-textual-snapshot) -
   Snapshot testing for Textual applications.
 - [textual-plotext](https://github.com/Textualize/textual-plotext) - A
