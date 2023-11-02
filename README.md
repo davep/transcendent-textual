@@ -76,12 +76,12 @@ add it. Or PR to it I guess. It's cool either way.
   bibliography management tool.
 - [Datadog QA](https://datadoghq.dev/ddqa/) - Datadog's QA manager for
   releases of GitHub repositories.
-- [Dooit](https://github.com/kraanzu/dooit) - A todo manager which you
-  didn't ask for but needed.
 - [dcmetro](https://github.com/HarunFeraidon/dcmetro) - Command line app for
   sending commands to get live information on the DC Metro.
 - [Dolphie](https://github.com/charles-001/dolphie) - An intuitive
   feature-rich top tool for monitoring MySQL in real time.
+- [Dooit](https://github.com/kraanzu/dooit) - A todo manager which you
+  didn't ask for but needed.
 - [DooPass](https://github.com/doopath/PasswordManager) - A minimalistic TUI
   password manager.
 - [Elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client
