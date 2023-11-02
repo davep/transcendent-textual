@@ -172,5 +172,7 @@ add it. Or PR to it I guess. It's cool either way.
   your terminal.
 - [unbored](https://github.com/davep/unbored) - A terminal-based client for
   the bored API; get inspired for things to do when you're bored.
+- [words-tui](https://github.com/anze3db/words-tui) - An app for daily
+  writing.
 
 [//]: # (README.md ends here)
