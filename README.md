@@ -78,6 +78,8 @@ add it. Or PR to it I guess. It's cool either way.
   releases of GitHub repositories.
 - [dcmetro](https://github.com/HarunFeraidon/dcmetro) - Command line app for
   sending commands to get live information on the DC Metro.
+- [django-tui](https://github.com/anze3db/django-tui) - Inspect and run
+  Django Commands in a text-based user interface.
 - [Dolphie](https://github.com/charles-001/dolphie) - An intuitive
   feature-rich top tool for monitoring MySQL in real time.
 - [Dooit](https://github.com/kraanzu/dooit) - A todo manager which you
