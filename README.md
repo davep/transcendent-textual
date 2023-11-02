@@ -130,6 +130,8 @@ add it. Or PR to it I guess. It's cool either way.
   working with language servers and clients.
 - [mandelexp](https://github.com/davep/textual-mandelbrot) - A Textual
   Mandelbrot explorer for the terminal.
+- [mlauncher-cli](https://github.com/drHyperion451/mlauncher-cli) - Master
+  Launcher: A classic-like launcher for the Master Levels of Doom2.
 - [NoteSH](https://github.com/Cvaniak/NoteSH) - A fully functional sticky notes App in your Terminal
 - [OIDIA](https://github.com/davep/oidia) - A simple no-shaming
   terminal-based streak tracker.
