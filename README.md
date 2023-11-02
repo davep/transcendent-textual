@@ -88,6 +88,8 @@ add it. Or PR to it I guess. It's cool either way.
   password manager.
 - [Elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client
   built with Textual.
+- [evolve-words](https://github.com/davep/evolve-words) - A terminal-based
+  visualisation of evolution through mutation and natural selection.
 - [Feeling](https://github.com/davep/feeling) - A simple terminal-based
   feelings tracker, with CLI and CHUI interface.
 - [Flameshow](https://github.com/laixintao/flameshow) - A terminal
