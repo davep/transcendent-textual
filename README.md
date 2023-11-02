@@ -124,7 +124,10 @@ add it. Or PR to it I guess. It's cool either way.
 - [Kayak](https://github.com/sauljabin/kayak) - ksqlDB text user interface.
 - [kupo](https://github.com/darrenburns/kupo) - A terminal-based file
   browser.
-- [langchain-serve](https://github.com/jina-ai/langchain-serve) - babyagi-as-a-service playground.
+- [langchain-serve](https://github.com/jina-ai/langchain-serve) -
+  babyagi-as-a-service playground.
+- [lsp-devtools](https://github.com/swyddfa/lsp-devtools) - Tooling for
+  working with language servers and clients.
 - [mandelexp](https://github.com/davep/textual-mandelbrot) - A Textual
   Mandelbrot explorer for the terminal.
 - [NoteSH](https://github.com/Cvaniak/NoteSH) - A fully functional sticky notes App in your Terminal
