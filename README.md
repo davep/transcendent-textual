@@ -170,6 +170,8 @@ add it. Or PR to it I guess. It's cool either way.
   A simple tool for testing and practicing Textual DOM queries.
 - [textual-totp](https://github.com/jepler/textual-totp) -
   A TOTP (authenticator) application using Python & Textual.
+- [tinboard](https://github.com/davep/tinboard) - A terminal-based client
+  for the Pinboard bookmarking service.
 - [trogon](https://github.com/Textualize/trogon) - Easily turn your Click
   CLI into a powerful terminal application.
 - [twobee](https://github.com/davep/twobee) - A simple 2bit file viewer and
