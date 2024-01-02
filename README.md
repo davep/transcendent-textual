@@ -135,6 +135,7 @@ add it. Or PR to it I guess. It's cool either way.
 - [NoteSH](https://github.com/Cvaniak/NoteSH) - A fully functional sticky notes App in your Terminal
 - [OIDIA](https://github.com/davep/oidia) - A simple no-shaming
   terminal-based streak tracker.
+- [OSHit](https://github.com/davep/oshit) - A HackerNews reader for the terminal.
 - [PISpy](https://github.com/davep/pispy) - A simple client for looking up
   package information in the Python package index.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - A file-recovery tool
