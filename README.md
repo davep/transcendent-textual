@@ -43,6 +43,8 @@ add it. Or PR to it I guess. It's cool either way.
   Add autocompletion to your Textual applications.
 - [textual-canvas](https://github.com/davep/textual-canvas) - A simple
   character-based canvas widget for use with Textual.
+- [textual-countdown](https://github.com/davep/textual-countdown) - A visual
+  countdown timer for Textual applications.
 - [textual-filedrop](https://github.com/agmmnn/textual-filedrop) - Library
   that provides a `FileDrop` widget, allowing easy drag/drop into a terminal
   application.
