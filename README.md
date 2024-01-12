@@ -45,6 +45,8 @@ add it. Or PR to it I guess. It's cool either way.
   character-based canvas widget for use with Textual.
 - [textual-countdown](https://github.com/davep/textual-countdown) - A visual
   countdown timer for Textual applications.
+- [textual-dad-joke](https://github.com/davep/textual-dad-joke) - A dad joke
+  widget for Textual. Seriously.
 - [textual-filedrop](https://github.com/agmmnn/textual-filedrop) - Library
   that provides a `FileDrop` widget, allowing easy drag/drop into a terminal
   application.
