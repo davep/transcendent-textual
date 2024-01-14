@@ -20,6 +20,12 @@ add it. Or PR to it I guess. It's cool either way.
 - [The Textual repository](https://github.com/Textualize/textual) - For the
   very latest and greatest Textual source.
 
+## Other learning resources
+
+- [Crash Course On Using Textual](https://fedoramagazine.org/crash-course-on-using-textual/) -
+  Walks the user through installing, debugging, and writing unit tests in the context
+  of developing a few simple example Texual applications.
+
 ## Textualize libraries and tools
 
 - [pytest-textual-snapshot](https://github.com/Textualize/pytest-textual-snapshot) -
