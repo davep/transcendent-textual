@@ -142,6 +142,7 @@ add it. Or PR to it I guess. It's cool either way.
 - [OSHit](https://github.com/davep/oshit) - A HackerNews reader for the terminal.
 - [PISpy](https://github.com/davep/pispy) - A simple client for looking up
   package information in the Python package index.
+- [Quizzical](https://github.com/davep/quizzical) - A terminal-based trivia quiz.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - A file-recovery tool
   for GNU/Linux.
 - [RichColorPicker](https://github.com/PlusPlusMan/RichColorPicker) -
