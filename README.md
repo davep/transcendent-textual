@@ -4,10 +4,6 @@ The aim of this wee document is to try and collect together links to as many
 [Textual](https://textual.textualize.io/)-based applications and third-party
 tools as possible.
 
-While I do work for [Textualize](https://www.textualize.io/), and am one of
-the Textual developers, this is a personal project, done for fun, out of
-curiosity, and to help the wider Textual community.
-
 If you have something you think should be on this list, let me know and I'll
 add it. Or PR to it I guess. It's cool either way.
 
