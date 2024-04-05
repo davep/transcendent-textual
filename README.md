@@ -86,6 +86,8 @@ add it. Or PR to it I guess. It's cool either way.
   didn't ask for but needed.
 - [DooPass](https://github.com/doopath/PasswordManager) - A minimalistic TUI
   password manager.
+- [dotenvhub](https://github.com/Zaloog/dotenvhub) - Terminal App to
+  centrally manage .env files.
 - [Elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client
   built with Textual.
 - [evolve-words](https://github.com/davep/evolve-words) - A terminal-based
