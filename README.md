@@ -142,6 +142,7 @@ add it. Or PR to it I guess. It's cool either way.
   package information in the Python package index.
 - [prune-envs](https://github.com/davidfokkema/prune-envs) - Prune (conda)
   Environments.
+- [pqviewer](https://github.com/thread53/pqviewer) - View Apache Parquet files in your terminal.
 - [Quizzical](https://github.com/davep/quizzical) - A terminal-based trivia quiz.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - A file-recovery tool
   for GNU/Linux.
