@@ -96,6 +96,7 @@ If you have something you think should be on this list, let me know and I'll add
 - [textual-query-sandbox](https://github.com/davep/textual-query-sandbox) - A simple tool for testing and practicing Textual DOM queries.
 - [textual-totp](https://github.com/jepler/textual-totp) - A TOTP (authenticator) application using Python & Textual.
 - [tinboard](https://github.com/davep/tinboard) - A terminal-based client for the Pinboard bookmarking service.
+- [tooi](https://codeberg.org/ihabunek/tooi) - A text-based user interface for Mastodon, Pleroma and friends.
 - [tt-smi](https://github.com/tenstorrent/tt-smi) - Tenstorrent console based hardware information program.
 - [trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application.
 - [twobee](https://github.com/davep/twobee) - A simple 2bit file viewer and reader library.
