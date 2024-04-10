@@ -48,6 +48,7 @@ If you have something you think should be on this list, let me know and I'll add
 - [Dooit](https://github.com/kraanzu/dooit) - A todo manager which you didn't ask for but needed.
 - [DooPass](https://github.com/doopath/PasswordManager) - A minimalistic TUI password manager.
 - [dotenvhub](https://github.com/Zaloog/dotenvhub) - Terminal App to centrally manage .env files.
+- [dunce](https://github.com/mj2p/dunce) - A simple note taking application.
 - [Elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual.
 - [evolve-words](https://github.com/davep/evolve-words) - A terminal-based visualisation of evolution through mutation and natural selection.
 - [Feeling](https://github.com/davep/feeling) - A simple terminal-based feelings tracker, with CLI and CHUI interface.
