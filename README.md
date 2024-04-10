@@ -109,8 +109,11 @@ If you have something you think should be on this list, let me know and I'll add
 - [Crash Course On Using Textual](https://fedoramagazine.org/crash-course-on-using-textual/) - Walks the user through installing, debugging, and writing unit tests in the context of developing a few simple example Texual applications.
 
 [//]: # Local Variables:
+
 [//]: # eval: (auto-fill-mode -1)
+
 [//]: # eval: (visual-line-mode 1)
+
 [//]: # End:
 
 [//]: # (README.md ends here)
