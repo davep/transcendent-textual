@@ -101,6 +101,7 @@ If you have something you think should be on this list, let me know and I'll add
 - [UPiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal.
 - [usolitaire](https://github.com/eliasdorneles/usolitaire) - Solitaire in your terminal.
 - [unbored](https://github.com/davep/unbored) - A terminal-based client for the bored API; get inspired for things to do when you're bored.
+- [vignore](https://github.com/james4ever0/vignore) - A powerful tool to visualize ignored files.
 - [visual-selection](https://github.com/davep/visual-selection) - A terminal-based visualisation of natural selection with mutation.
 - [words-tui](https://github.com/anze3db/words-tui) - An app for daily writing.
 
