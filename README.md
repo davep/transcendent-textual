@@ -80,6 +80,7 @@ If you have something you think should be on this list, let me know and I'll add
 - [pqviewer](https://github.com/thread53/pqviewer) - View Apache Parquet files in your terminal.
 - [Quizzical](https://github.com/davep/quizzical) - A terminal-based trivia quiz.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - A file-recovery too for GNU/Linux.
+- [rexi](https://github.com/royreznik/rexi) - Terminal UI for Regex Testing.
 - [RichColorPicker](https://github.com/PlusPlusMan/RichColorPicker) - Terminal-based color picker with rich color palette.
 - [Secret Santa](https://github.com/rodrigogiraoserrao/Secret-Santa) - Secret Santa drawing tool for the terminal.
 - [shira](https://github.com/darrenburns/shira) - A Python object inspector.
