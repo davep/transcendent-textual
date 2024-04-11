@@ -76,6 +76,7 @@ If you have something you think should be on this list, let me know and I'll add
 - [NoteSH](https://github.com/Cvaniak/NoteSH) - A fully functional sticky notes App in your Terminal
 - [OIDIA](https://github.com/davep/oidia) - A simple no-shaming terminal-based streak tracker.
 - [OSHit](https://github.com/davep/oshit) - A HackerNews reader for the terminal.
+- [parq-inspector](https://github.com/jkausti/parq-inspector) - Parquet viewer for your terminal.
 - [PISpy](https://github.com/davep/pispy) - A simple client for looking up package information in the Python package index.
 - [prune-envs](https://github.com/davidfokkema/prune-envs) - Prune (conda) Environments.
 - [pqviewer](https://github.com/thread53/pqviewer) - View Apache Parquet files in your terminal.
