@@ -57,6 +57,7 @@ If you have something you think should be on this list, let me know and I'll add
 - [fivepyfive](https://github.com/davep/fivepyfive) - An annoying puzzle for the terminal.
 - [FV-1 Programmer](https://github.com/audiofab/fv1_programmer) - Textual-based UI for programming the Audiofab Easy Spin effects pedal.
 - [girok](https://github.com/noisrucer/girok) - A powerful terminal-based task manager which provides a multitude of scheduling operations that can be done in less than 10 seconds.
+- [gptextual](https://github.com/stefankirchfeld/gptextual) - A terminal-based chat client for various LLMs built with Textual.
 - [gridinfo](https://github.com/davep/gridinfo) - A simple application for looking at stats about the Second Life grid.
 - [gtraceroute](https://github.com/LeviBorodenko/gtraceroute) - A sophisticated network diagnostic tool, combining the utility of traditional traceroute with a user-friendly UI similar to PingPlotter.
 - [gupshup](https://github.com/kraanzu/gupshup) - A chat application built for the terminal.
