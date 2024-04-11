@@ -85,6 +85,7 @@ If you have something you think should be on this list, let me know and I'll add
 - [Secret Santa](https://github.com/rodrigogiraoserrao/Secret-Santa) - Secret Santa drawing tool for the terminal.
 - [shira](https://github.com/darrenburns/shira) - A Python object inspector.
 - [skylab](https://github.com/SerhiiStets/skylab) - A TUI for showing latest upcoming rocket launches.
+- [smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition.
 - [sphoin](https://github.com/Parsecom/sphoin) - A TUI for [sphoin.app](https://sphoin.app)
 - [Spiel](https://github.com/JoshKarpel/spiel) - A terminal-based presentation tool where you build your slides using Python functions.
 - [sqint](https://github.com/cdelker/sqint) - A texutal-based terminal application for viewing, querying, and modifying SQLite databases.
