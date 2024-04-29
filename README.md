@@ -92,6 +92,7 @@ If you have something you think should be on this list, let me know and I'll add
 - [sphoin](https://github.com/Parsecom/sphoin) - A TUI for [sphoin.app](https://sphoin.app)
 - [Spiel](https://github.com/JoshKarpel/spiel) - A terminal-based presentation tool where you build your slides using Python functions.
 - [sqint](https://github.com/cdelker/sqint) - A texutal-based terminal application for viewing, querying, and modifying SQLite databases.
+- [SuricataLog](https://github.com/josevnz/SuricataLog) - SuricataLog is a set of tools/ scripts to parse and display Suricata log files.
 - [tab-pal](https://github.com/ben-n93/tab-pal) - A TUI that makes it easier to add and edit custom colour palettes in Tableau.
 - [termlauncer](https://github.com/falldeaf/termlauncher) - A command-line based key launcher using Textual.
 - [termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
