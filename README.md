@@ -45,6 +45,7 @@ If you have something you think should be on this list, let me know and I'll add
 - [Datadog QA](https://datadoghq.dev/ddqa/) - Datadog's QA manager for releases of GitHub repositories.
 - [dcmetro](https://github.com/HarunFeraidon/dcmetro) - Command line app for sending commands to get live information on the DC Metro.
 - [django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface.
+- [dip_coater](https://github.com/IvS-KULeuven/dip_coater) - A terminal / Textual app to control a dip coater motor.
 - [Dolphie](https://github.com/charles-001/dolphie) - An intuitive feature-rich top tool for monitoring MySQL in real time.
 - [Dooit](https://github.com/kraanzu/dooit) - A todo manager which you didn't ask for but needed.
 - [DooPass](https://github.com/doopath/PasswordManager) - A minimalistic TUI password manager.
